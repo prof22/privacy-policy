@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html>
-<head>OOJAVA Status Saver for WhatsApp - Privacy Policy</title>
+<head><title>OOJAVA Status Saver for WhatsApp - Privacy Policy</title>
 </head>
 <body>
 <p><strong>OOJAVA Status Saver for WhatsApp - Privacy Policy</strong></p>
